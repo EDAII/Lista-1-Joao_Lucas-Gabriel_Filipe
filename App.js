@@ -102,6 +102,9 @@ export default class App extends React.Component {
     const { checked } = this.state;
     return (
       <View style={styles.container}>
+      <View style={styles.center}>
+          <Text> Trabalho de EDA </Text>
+        </View>
         <View style={styles.titulo}>
           <Text style={{ fontSize: 18 }}> Qual tamanho do seu vetor ?</Text>
         </View>
@@ -162,7 +165,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-evenly"
   },
   titulo: {
-    marginTop: 80,
+    marginTop: 15,
     alignItems: "center"
   },
   radioText: {
@@ -176,5 +179,8 @@ const styles = StyleSheet.create({
   numeros: {
     flexDirection: "row",
     justifyContent: "space-evenly"
+  },
+  center: {
+    marginTop: 30
   }
 });
