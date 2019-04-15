@@ -20,6 +20,11 @@ Após instalado navege até a pasta do app e execute:
 
 Baixe o aplicativo Expo no celular e escaneie o QR code gerado no terminal. 
 
+## OU:
+
+Baixe o apk ( EDA2 - Busca.apk ) no repositório e instale em seu, celular ( Android apenas )
+
+
 ## Prints:
 
 ![Início](./assets/init.jpg)
