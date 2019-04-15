@@ -19,3 +19,13 @@ Após instalado navege até a pasta do app e execute:
        $  expo start 
 
 Baixe o aplicativo Expo no celular e escaneie o QR code gerado no terminal. 
+
+## Prints:
+
+![Início](./assets/init.jpg)
+
+![100](./assets/2.jpg)
+
+![10K](./assets/3.jpg)
+
+![1M](./assets/4.jpg)
